@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="282" viewBox="0 0 490 282" role="img" aria-label="xunaty@github: ~">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;fill:#c9d1d9}
+.dim{fill:#8b949e}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.g{fill:#27c93f;font-weight:bold;font-size:15px}.k{fill:#58a6ff;font-weight:bold}.r{animation:in .5s ease-out both}@keyframes in{from{opacity:0;transform:translateX(-8px)}}
+</style>
+<rect x=".5" y=".5" width="489" height="281" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M.5 34H489.5" stroke="#30363d"/>
+<circle cx="20" cy="17" r="5" fill="#ff5f56"/><circle cx="38" cy="17" r="5" fill="#ffbd2e"/><circle cx="56" cy="17" r="5" fill="#27c93f"/>
+<text x="76" y="21" class="dim" style="font-size:12px">xunaty@github: ~</text>
+<g class="r" style="animation-delay:0.00s"><text class="g" x="28" y="74">xunaty@github</text></g>
+<g class="r" style="animation-delay:0.12s"><text class="dim" x="28" y="90">-------------</text></g>
+<g class="r" style="animation-delay:0.24s"><text x="28" y="116"><tspan class="k">Nome</tspan><tspan x="100">Israel Barros</tspan></text></g>
+<g class="r" style="animation-delay:0.36s"><text x="28" y="142"><tspan class="k">Agora</tspan><tspan x="100">Gestor de IA</tspan></text></g>
+<g class="r" style="animation-delay:0.48s"><text x="28" y="168"><tspan class="k">Local</tspan><tspan x="100">Brasil</tspan></text></g>
+<g class="r" style="animation-delay:0.60s"><text x="28" y="194"><tspan class="k">Stack</tspan><tspan x="100">TypeScript · JavaScript · Python · HTML/CSS</tspan></text></g>
+<g class="r" style="animation-delay:0.72s"><text x="28" y="220"><tspan class="k">Foco</tspan><tspan x="100">automações · gateway de pagamento</tspan></text></g>
+<g class="r" style="animation-delay:0.84s"><g><rect x="28" y="244" width="28" height="14" fill="#ff5f56"/><rect x="56" y="244" width="28" height="14" fill="#ffbd2e"/><rect x="84" y="244" width="28" height="14" fill="#27c93f"/><rect x="112" y="244" width="28" height="14" fill="#58a6ff"/><rect x="140" y="244" width="28" height="14" fill="#bc8cff"/><rect x="168" y="244" width="28" height="14" fill="#39c5cf"/><rect x="196" y="244" width="28" height="14" fill="#c9d1d9"/><rect x="224" y="244" width="28" height="14" fill="#8b949e"/></g></g>
+</svg>
