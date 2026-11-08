@@ -1,49 +1,14 @@
 {
  "user": "Xunaty",
- "total": 2556,
- "current": 28,
- "longest": 28,
+ "total": 2569,
+ "current": 29,
+ "longest": 29,
  "best": {
   "date": "2026-10-13",
   "level": 4,
   "count": 98
  },
  "days": [
-  {
-   "date": "2025-11-02",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-03",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-04",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-05",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-06",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-07",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-08",
-   "level": 0,
-   "count": 0
-  },
   {
    "date": "2025-11-09",
    "level": 0,
@@ -1857,10 +1822,15 @@
   {
    "date": "2026-11-06",
    "level": 1,
-   "count": 10
+   "count": 11
   },
   {
    "date": "2026-11-07",
+   "level": 1,
+   "count": 12
+  },
+  {
+   "date": "2026-11-08",
    "level": 0,
    "count": 0
   }
