@@ -1,8 +1,8 @@
 {
  "user": "Xunaty",
- "total": 2989,
- "current": 47,
- "longest": 47,
+ "total": 3023,
+ "current": 49,
+ "longest": 49,
  "best": {
   "date": "2026-10-13",
   "level": 4,
@@ -1851,8 +1851,13 @@
   },
   {
    "date": "2026-11-26",
-   "level": 0,
-   "count": 0
+   "level": 1,
+   "count": 8
+  },
+  {
+   "date": "2026-11-27",
+   "level": 2,
+   "count": 26
   }
  ]
 }
